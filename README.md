@@ -1,2 +1,1 @@
-# pic-ob
-图床-Obsidian
+# Image Hosting
